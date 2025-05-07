@@ -22,6 +22,11 @@ System.out.println("Introduce el termino independiente");
 c = scan.nextDouble(); sol1 = (-1*b + Math.sqrt(b*b - 4*a*c))/(2*a);
 sol2 = (-1*b - Math.sqrt(b*b - 4*a*c))/(2*a);
 System.out.println("Las soluciones son: " + sol1 + "y" + sol2);
+System.out.println("Las soluciones son: " + sol1 + "y" + sol2);
+System.out.println("Las soluciones son: " + sol1 + "y" + sol2);
+System.out.println("Las soluciones son: " + sol1 + "y" + sol2);
+System.out.println("Las soluciones son: " + sol1 + "y" + sol2);
+System.out.println("Las soluciones son: " + sol1 + "y" + sol2);
 }
 }
     
